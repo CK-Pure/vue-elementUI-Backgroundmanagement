@@ -5,6 +5,8 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import User from '../views/User.vue'
 
+// 注册VueRouter
+
 Vue.use(VueRouter)
 
 const routes = [
